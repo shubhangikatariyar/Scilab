@@ -1,4 +1,3 @@
-
 //POLAR NON RETURN TO ZERO AND RETURN TO ZERO
 clc;
 clear all;
