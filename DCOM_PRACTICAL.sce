@@ -1,5 +1,4 @@
-//SHHUBHANGI KATARIYAR
-//TE EXTC 21
+
 
 clear all; close
 p = [0:0.001:1];
