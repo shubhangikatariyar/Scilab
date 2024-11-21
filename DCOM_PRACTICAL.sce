@@ -1,4 +1,5 @@
 
+// Amt of Info
 
 clear all; close
 p = [0:0.001:1];
