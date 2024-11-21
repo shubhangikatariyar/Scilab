@@ -1,4 +1,5 @@
 
+
 //UNIPOLAR NON RETURN TO ZERO AND RETURN ZERO
 clc;
 clear all;
